@@ -21,8 +21,7 @@ h2 {
 
 table {
 	width: 100%;
-	margin: 1;
-	border: 1px solid black;
+	margin: 0 auto;
 }
 
 td {
@@ -30,6 +29,7 @@ td {
 	padding:10px;
 	vertical-align:top;
 	background-color: #d8d8d8;
+	border: 1px solid black;
 }
 
 td img {
